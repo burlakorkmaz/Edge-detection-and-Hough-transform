@@ -8,4 +8,5 @@
 
 ## Output Image
 
+![output](https://raw.githubusercontent.com/burlakorkmaz/Edge-detection-and-Hough-transform/master/output.png)
 
